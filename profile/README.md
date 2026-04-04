@@ -2,7 +2,6 @@
 
 [![Stars](https://img.shields.io/github/stars/SasanLabs?style=for-the-badge\&logo=github)](https://github.com/SasanLabs)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge)](https://github.com/SasanLabs)
-[![Built for AppSec](https://img.shields.io/badge/Built%20for-AppSec-8A2BE2?style=for-the-badge)](https://github.com/SasanLabs)
 
 > **Modular security labs, tooling, and awareness — built to be practical and easy to maintain.**
 
