@@ -9,6 +9,7 @@ We provide a **modular ecosystem** of labs and tools that help users explore rea
 * 🛡️ Improve everyday security awareness with **SAFE**.
 
 **Our journey:**
+<img width="2122" height="1193" alt="image" src="https://github.com/user-attachments/assets/0831303a-a948-4900-aca3-fdae823b0db2" />
 
 We started by creating **ZAP add-ons** for practical testing and quickly realized that building vulnerable apps for learning was cumbersome. That inspired **VulnerableApp**, a lab where adding new vulnerabilities is easy. To support different tech stacks, we created a **farm of vulnerable apps** with a unified **VulnerableApp-facade** for simple orchestration. Later, we added **LLM-based labs** and **SAFE**, turning SasanLabs into a comprehensive educational platform for cybersecurity learners.
 
