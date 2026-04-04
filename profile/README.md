@@ -1,45 +1,41 @@
-# SasanLabs
+# Welcome to **SasanLabs**
 
-[![Stars](https://img.shields.io/github/stars/SasanLabs?style=for-the-badge\&logo=github)](https://github.com/SasanLabs)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge)](https://github.com/SasanLabs)
+Ever wondered why security testing is so hard? Every engineer writing add-ons needed a vulnerable app to test against—and building one from scratch was a headache. That’s where **SasanLabs** comes in.
 
-> **Modular security labs, tooling, and awareness — built to be practical and easy to maintain.**
+We built a **modular, practical, and easy-to-extend ecosystem** for security testing and learning. Instead of one huge, complicated app, we created a **farm of smaller apps**—each focused, each simple to use, and together forming a powerful playground.
 
-SasanLabs is an open-source ecosystem for hands-on security learning and tool validation. Instead of one large app, we build **small, focused projects** that work well independently and even better together.
+* Test real-world vulnerabilities, step by step.
+* Build and run your own security add-ons.
+* Explore modern AI-driven vulnerabilities in our LLMForge lab.
+* Learn security in everyday life with our SAFE awareness platform.
 
----
-
-## Projects
-
-* **VulnerableApp** — core hands-on lab
-* **VulnerableApp-facade** — unified entry & orchestration layer
-* **LLMForge** — AI security playground
-* **ZAP Add-ons** — tooling extensions
-* **SAFE** — security awareness for everyone
+Whether you’re a developer, security engineer, researcher, or just curious, **SasanLabs makes security accessible, hands-on, and fun**.
 
 ---
 
-## Why SasanLabs
+## Our Projects
 
-* **Modular** — clear boundaries, easy to extend
-* **Practical** — built for real workflows
-* **Maintainable** — low long-term cost
-* **Composable** — mix and match projects
-
----
-
-## Who it’s for
-
-Developers, security engineers, tool builders, researchers, and contributors.
+* **[Owasp VulnerableApp](https://github.com/SasanLabs/VulnerableApp)** — your hands-on lab for testing vulnerabilities
+* **[Owasp VulnerableApp-facade](https://github.com/SasanLabs/VulnerableApp-facade)** — a unified UI and orchestration layer
+* **[LLMForge](https://github.com/SasanLabs/LLMForge)** — explore AI-driven security challenges
+* **[SAFE](https://github.com/SasanLabs/SAFE)** — simple, practical security awareness for everyone
+* **ZAProxy Add-ons** — [ZAP JWT Addon](https://github.com/SasanLabs/owasp-zap-jwt-addon) and [ZAP FileUpload Addon](https://github.com/SasanLabs/owasp-zap-fileupload-addon)
 
 ---
 
-## Get involved
+## Why SasanLabs?
 
-* ⭐ Star the repos
-* 🛠 Contribute improvements
-* 💡 Share ideas
+* **Modular** — pick and choose what you want
+* **Practical** — learn by doing, the real way
+* **Maintainable** — low setup, low long-term pain
+* **Composable** — mix projects your way
 
 ---
 
-**Simple. Practical. Built to last.**
+## Join Us
+
+* ⭐ Star our repos
+* 🛠 Contribute code or ideas
+* 💡 Learn, explore, and experiment
+
+**Security made simple. Learning made fun. Built to last.**
