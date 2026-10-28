@@ -27,7 +27,7 @@ Whether you’re a developer, security enthusiast, or student, **SasanLabs makes
 
 ---
 
-![Entire architecture stack](https://github.com/SasanLabs/VulnerableApp/blob/master/docs/logos/sasanlabs.png)
+![Entire architecture stack](https://raw.githubusercontent.com/SasanLabs/VulnerableApp/refs/heads/master/docs/logos/Sasanlabs/english.png)
 
 
 ## Join Us
